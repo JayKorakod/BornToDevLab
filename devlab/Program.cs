@@ -10,6 +10,15 @@ namespace devlab
     {
         static void Main(string[] args)
         {
+            #region === ยกกำลัง ===
+            //int number1;
+            //int number2;
+
+            //int.TryParse(Console.ReadLine(), out number1);
+            //int.TryParse(Console.ReadLine(), out number2);
+
+            //Console.WriteLine(Math.Pow(number1, number2));
+            #endregion           
             #region === ReverseThe ===
             //string text = Console.ReadLine();
             //string[] textArray = text.Split(' ');

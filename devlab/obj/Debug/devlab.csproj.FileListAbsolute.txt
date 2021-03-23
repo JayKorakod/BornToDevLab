@@ -5,3 +5,10 @@ D:\source\repos\test\devlab\obj\Debug\devlab.csprojAssemblyReference.cache
 D:\source\repos\test\devlab\obj\Debug\devlab.csproj.CoreCompileInputs.cache
 D:\source\repos\test\devlab\obj\Debug\devlab.exe
 D:\source\repos\test\devlab\obj\Debug\devlab.pdb
+D:\source\repos\devlab\devlab\bin\Debug\devlab.exe.config
+D:\source\repos\devlab\devlab\bin\Debug\devlab.exe
+D:\source\repos\devlab\devlab\bin\Debug\devlab.pdb
+D:\source\repos\devlab\devlab\obj\Debug\devlab.csprojAssemblyReference.cache
+D:\source\repos\devlab\devlab\obj\Debug\devlab.csproj.CoreCompileInputs.cache
+D:\source\repos\devlab\devlab\obj\Debug\devlab.exe
+D:\source\repos\devlab\devlab\obj\Debug\devlab.pdb
